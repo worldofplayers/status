@@ -18,7 +18,6 @@ assignees:
 status-website:
   theme: dark
   cname: status.worldofplayers.de
-  # baseUrl: /your-repo-name
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: WoP Status
   introTitle: "**World of Players Status**"
@@ -28,5 +27,5 @@ status-website:
       href: /
     - title: Infoforum
       href: https://forum.worldofplayers.de/forum/forums/146-Infoforum
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
