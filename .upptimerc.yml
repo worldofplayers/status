@@ -4,7 +4,7 @@ user-agent: worldofplayers
 
 sites:
   - name: Forum
-    url: https://forum.worldofplayers.de/forum/
+    url: https://forum.worldofplayers.de/forum/forums/146-Infoforum
   - name: Portalseite
     url: https://www.worldofplayers.de/
   - name: World of Gothic
@@ -24,7 +24,7 @@ status-website:
   introTitle: "**World of Players Status**"
   introMessage: Zeigt an ob dein Lieblings-Forum gerade funktioniert oder nicht.
   navbar:
-    - title: Status
+    - title: WoP Status
       href: /
     - title: Infoforum
       href: https://forum.worldofplayers.de/forum/forums/146-Infoforum
