@@ -17,7 +17,7 @@ assignees:
 
 status-website:
   theme: dark
-  cname: staus.worldofplayers.de
+  cname: status.worldofplayers.de
   # baseUrl: /your-repo-name
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: WoP Status
