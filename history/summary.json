@@ -1,23 +1,21 @@
 [
   {
     "name": "Forum",
-    "url": "https://forum.worldofplayers.de/forum/",
+    "url": "https://forum.worldofplayers.de/forum/forums/146-Infoforum",
     "icon": "https://favicons.githubusercontent.com/forum.worldofplayers.de",
     "slug": "forum",
-    "status": "down",
-    "uptime": "1.23%",
-    "uptimeDay": "1.23%",
-    "uptimeWeek": "1.23%",
-    "uptimeMonth": "1.23%",
-    "uptimeYear": "1.23%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-04-24": 7
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2519,
+    "timeDay": 2519,
+    "timeWeek": 2519,
+    "timeMonth": 2519,
+    "timeYear": 2519,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portalseite",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1223,
-    "timeDay": 1223,
-    "timeWeek": 1223,
-    "timeMonth": 1223,
-    "timeYear": 1223,
+    "time": 1253,
+    "timeDay": 1253,
+    "timeWeek": 1253,
+    "timeMonth": 1253,
+    "timeYear": 1253,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1564,
-    "timeDay": 1564,
-    "timeWeek": 1564,
-    "timeMonth": 1564,
-    "timeYear": 1564,
+    "time": 1594,
+    "timeDay": 1594,
+    "timeWeek": 1594,
+    "timeMonth": 1594,
+    "timeYear": 1594,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2106,
-    "timeDay": 2106,
-    "timeWeek": 2106,
-    "timeMonth": 2106,
-    "timeYear": 2106,
+    "time": 2090,
+    "timeDay": 2090,
+    "timeWeek": 2090,
+    "timeMonth": 2090,
+    "timeYear": 2090,
     "dailyMinutesDown": {}
   }
 ]
