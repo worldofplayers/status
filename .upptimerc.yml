@@ -49,6 +49,7 @@ status-website:
   theme: dark
   cname: status.worldofplayers.de
   logoUrl: https://raw.githubusercontent.com/worldofplayers/status/master/assets/wop.png
+  favicon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicon.png
   name: WoP Status
   introTitle: "**World of Players Status**"
   introMessage: Zeigt an ob das WoP-Netzwerk gerade funktioniert oder nicht. / Displays the availability status of the WoP-Network.
