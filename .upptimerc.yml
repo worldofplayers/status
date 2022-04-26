@@ -16,6 +16,8 @@ status-website:
       href: /
     - title: Infoforum
       href: https://forum.worldofplayers.de/forum/forums/146-Infoforum
+    - title: Impressum
+      href: https://www.worldofplayers.de/kontakt.html
 
 assignees:
   - mrgrain
