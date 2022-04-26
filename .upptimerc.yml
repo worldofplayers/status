@@ -18,7 +18,7 @@ assignees:
 status-website:
   theme: dark
   cname: status.worldofplayers.de
-  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/worldofplayers/status/master/assets/wop.png
   name: WoP Status
   introTitle: "**World of Players Status**"
   introMessage: Zeigt an ob dein Lieblings-Forum gerade funktioniert oder nicht.
