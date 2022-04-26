@@ -34,7 +34,7 @@ sites:
     icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico
   - name: Assassin's Creed
     url: https://www.assassins-creed.de/
-    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/assassinecreed.gif
+    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/assassinscreed.gif
   - name: Diablo Game
     url: https://www.diablogame.de/
     icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/diablo.ico
