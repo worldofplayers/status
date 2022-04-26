@@ -16,8 +16,11 @@ status-website:
       href: /
     - title: Infoforum
       href: https://forum.worldofplayers.de/forum/forums/146-Infoforum
-    - title: Impressum
-      href: https://www.worldofplayers.de/kontakt.html
+
+i18n:
+  footer: |
+    This page is open source, powered by [Upptime](https://upptime.js.org)
+    [Impressum](https://www.worldofplayers.de/kontakt.html)
 
 assignees:
   - mrgrain
