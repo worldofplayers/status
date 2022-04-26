@@ -26,42 +26,58 @@ assignees:
 sites:
   - name: Forum
     url: https://forum.worldofplayers.de/forum/forums/146-Infoforum
-    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicon.png
+    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico
   - name: Portalseite
     url: https://www.worldofplayers.de/
-    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicon.png
+    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico
   - name: Download-Server
     url: https://dl.worldofplayers.de/wog/gothic1/sonstiges/GothicFps-108.zip
-    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicon.png
+    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico
   - name: Assassin's Creed
     url: https://www.assassins-creed.de/
+    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/assassinecreed.gif
   - name: Diablo Game
     url: https://www.diablogame.de/
+    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/diablo.ico
   - name: Dragon Age Game
     url: https://www.dragonage-game.de/
+    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/dragonage.png
   - name: DSA Drakensang
     url: https://www.dsa-drakensang.de/
+    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/drakensang.png
   - name: Dungeon Lords
     url: https://www.dungeon-lords.de/
+    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/dungeonlords.gif
   - name: Fallout-Area.de
     url: https://fallout-area.de
+    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/fallout.png
   - name: Herr der Ringe
     url: https://www.hdr-seite.de
+    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/herrderringe.ico
   - name: Mass Effect Universe
     url: https://www.masseffect-universe.de/
+    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/masseffect.gif
   - name: Planet Neverwinter
     url: https://www.planetneverwinter.de/
+    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/neverwinter.ico
   - name: Sacred Legends
     url: https://www.sacred-legends.de/
+    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/sacred.jpg
   - name: The Witcher
     url: https://www.the-witcher.de/
+    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/witcher.ico
   - name: World of Cyberpunk
     url: https://www.worldofcyberpunk.de
+    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/cyberpunk.png
   - name: World of Elder Scrolls
     url: https://www.worldofelderscrolls.de/
+    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/tes.ico
   - name: World of Elex
     url: https://worldofelex.de/
+    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/elex.png
   - name: World of Gothic
     url: https://www.worldofgothic.de/
+    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/gothic.ico
   - name: World of Risen
     url: https://www.worldofrisen.de/
+    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/risen.ico
