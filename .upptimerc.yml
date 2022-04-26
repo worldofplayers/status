@@ -16,8 +16,6 @@ status-website:
       href: /
     - title: Infoforum
       href: https://forum.worldofplayers.de/forum/forums/146-Infoforum
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 assignees:
   - mrgrain
