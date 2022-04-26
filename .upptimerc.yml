@@ -2,13 +2,37 @@ owner: worldofplayers
 repo: status
 user-agent: worldofplayers
 
+status-website:
+  theme: dark
+  cname: status.worldofplayers.de
+  logoUrl: https://raw.githubusercontent.com/worldofplayers/status/master/assets/wop.png
+  favicon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicon.png
+  name: World of Players Status
+  introTitle: "**World of Players Status**"
+  introMessage: "Zeigt an ob das WoP-Netzwerk gerade funktioniert oder nicht.\
+    Displays the current availability of the WoP-Network."
+  css: "a.logo > div { display: none; }"
+  navbar:
+    - title: Status
+      href: /
+    - title: Infoforum
+      href: https://forum.worldofplayers.de/forum/forums/146-Infoforum
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+assignees:
+  - mrgrain
+
 sites:
   - name: Forum
     url: https://forum.worldofplayers.de/forum/forums/146-Infoforum
+    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicon.png
   - name: Portalseite
     url: https://www.worldofplayers.de/
+    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicon.png
   - name: Download-Server
     url: https://dl.worldofplayers.de/wog/gothic1/sonstiges/GothicFps-108.zip
+    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicon.png
   - name: Assassin's Creed
     url: https://www.assassins-creed.de/
   - name: Diablo Game
@@ -41,22 +65,3 @@ sites:
     url: https://www.worldofgothic.de/
   - name: World of Risen
     url: https://www.worldofrisen.de/
-
-assignees:
-  - mrgrain
-
-status-website:
-  theme: dark
-  cname: status.worldofplayers.de
-  logoUrl: https://raw.githubusercontent.com/worldofplayers/status/master/assets/wop.png
-  favicon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicon.png
-  name: WoP Status
-  introTitle: "**World of Players Status**"
-  introMessage: Zeigt an ob das WoP-Netzwerk gerade funktioniert oder nicht. / Displays the availability status of the WoP-Network.
-  navbar:
-    - title: Status
-      href: /
-    - title: Infoforum
-      href: https://forum.worldofplayers.de/forum/forums/146-Infoforum
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
