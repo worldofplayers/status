@@ -7,10 +7,40 @@ sites:
     url: https://forum.worldofplayers.de/forum/forums/146-Infoforum
   - name: Portalseite
     url: https://www.worldofplayers.de/
-  - name: World of Gothic
-    url: https://www.worldofgothic.de/
+  - name: Download-Server
+    url: https://dl.worldofplayers.de/wog/gothic1/sonstiges/GothicFps-108.zip
+  - name: Assassin's Creed
+    url: https://www.assassins-creed.de/
+  - name: Diablo Game
+    url: https://www.diablogame.de/
+  - name: Dragon Age Game
+    url: https://www.dragonage-game.de/
+  - name: DSA Drakensang
+    url: https://www.dsa-drakensang.de/
+  - name: Dungeon Lords
+    url: https://www.dungeon-lords.de/
+  - name: Fallout-Area.de
+    url: https://fallout-area.de
+  - name: Herr der Ringe
+    url: https://www.hdr-seite.de
+  - name: Mass Effect Universe
+    url: https://www.masseffect-universe.de/
+  - name: Planet Neverwinter
+    url: https://www.planetneverwinter.de/
+  - name: Sacred Legends
+    url: https://www.sacred-legends.de/
   - name: The Witcher
     url: https://www.the-witcher.de/
+  - name: World of Cyberpunk
+    url: https://www.worldofcyberpunk.de
+  - name: World of Elder Scrolls
+    url: https://www.worldofelderscrolls.de/
+  - name: World of Elex
+    url: https://worldofelex.de/
+  - name: World of Gothic
+    url: https://www.worldofgothic.de/
+  - name: World of Risen
+    url: https://www.worldofrisen.de/
 
 assignees:
   - mrgrain
@@ -21,9 +51,9 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/worldofplayers/status/master/assets/wop.png
   name: WoP Status
   introTitle: "**World of Players Status**"
-  introMessage: Zeigt an ob dein Lieblings-Forum gerade funktioniert oder nicht.
+  introMessage: Zeigt an ob das WoP-Netzwerk gerade funktioniert oder nicht. / Displays the availability status of the WoP-Network.
   navbar:
-    - title: WoP Status
+    - title: Status
       href: /
     - title: Infoforum
       href: https://forum.worldofplayers.de/forum/forums/146-Infoforum
