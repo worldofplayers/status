@@ -9,8 +9,7 @@ status-website:
   favicon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicon.png
   name: World of Players Status
   introTitle: "**World of Players Status**"
-  introMessage: "Zeigt an ob das WoP-Netzwerk gerade funktioniert oder nicht.\
-    Displays the current availability of the WoP-Network."
+  introMessage: "Zeigt an ob das WoP-Netzwerk gerade funktioniert oder nicht.\nDisplays the current availability of the WoP-Network."
   css: "a.logo > div { display: none; }"
   navbar:
     - title: Status
