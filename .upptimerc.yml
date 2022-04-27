@@ -50,9 +50,6 @@ sites:
   - name: Dungeon Lords
     url: https://www.dungeon-lords.de/
     icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/dungeonlords.gif
-  - name: Fallout-Area.de
-    url: https://fallout-area.de
-    icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/fallout.png
   - name: Herr der Ringe
     url: https://www.hdr-seite.de
     icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/herrderringe.ico
