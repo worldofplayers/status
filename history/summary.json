@@ -28,10 +28,10 @@
     "url": "https://www.worldofplayers.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico",
     "slug": "portalseite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1133,
@@ -39,17 +39,19 @@
     "timeWeek": 929,
     "timeMonth": 1099,
     "timeYear": 1133,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-25": 1
+    }
   },
   {
     "name": "Download-Server",
     "url": "https://dl.worldofplayers.de/wog/gothic1/sonstiges/GothicFps-108.zip",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico",
     "slug": "download-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1496,
@@ -58,6 +60,7 @@
     "timeMonth": 1543,
     "timeYear": 1496,
     "dailyMinutesDown": {
+      "2022-09-25": 1,
       "2022-06-08": 42
     }
   },
@@ -66,10 +69,10 @@
     "url": "https://upload.worldofplayers.de/files12/testbild.png",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico",
     "slug": "upload-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 749,
@@ -77,17 +80,19 @@
     "timeWeek": 602,
     "timeMonth": 725,
     "timeYear": 749,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-25": 1
+    }
   },
   {
     "name": "Upload-Server (Upload Form)",
     "url": "https://upload.worldofplayers.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico",
     "slug": "upload-server-upload-form",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1261,
@@ -95,17 +100,19 @@
     "timeWeek": 1187,
     "timeMonth": 1237,
     "timeYear": 1261,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-25": 1
+    }
   },
   {
     "name": "Assassin's Creed",
     "url": "https://www.assassins-creed.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/assassinscreed.gif",
     "slug": "assassin-s-creed",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1097,
@@ -113,17 +120,19 @@
     "timeWeek": 882,
     "timeMonth": 1022,
     "timeYear": 1097,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-25": 1
+    }
   },
   {
     "name": "Diablo Game",
     "url": "https://www.diablogame.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/diablo.ico",
     "slug": "diablo-game",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1320,
@@ -131,17 +140,19 @@
     "timeWeek": 1285,
     "timeMonth": 1301,
     "timeYear": 1320,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-25": 1
+    }
   },
   {
     "name": "Dragon Age Game",
     "url": "https://www.dragonage-game.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/dragonage.png",
     "slug": "dragon-age-game",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1173,
@@ -149,17 +160,19 @@
     "timeWeek": 1075,
     "timeMonth": 1108,
     "timeYear": 1173,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-25": 1
+    }
   },
   {
     "name": "DSA Drakensang",
     "url": "https://www.dsa-drakensang.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/drakensang.png",
     "slug": "dsa-drakensang",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1282,
@@ -167,17 +180,19 @@
     "timeWeek": 1055,
     "timeMonth": 1180,
     "timeYear": 1282,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-25": 1
+    }
   },
   {
     "name": "Dungeon Lords",
     "url": "https://www.dungeon-lords.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/dungeonlords.gif",
     "slug": "dungeon-lords",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1282,
@@ -185,17 +200,19 @@
     "timeWeek": 972,
     "timeMonth": 1189,
     "timeYear": 1282,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-25": 1
+    }
   },
   {
     "name": "Herr der Ringe",
     "url": "https://www.hdr-seite.de",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/herrderringe.ico",
     "slug": "herr-der-ringe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2100,
@@ -203,17 +220,19 @@
     "timeWeek": 1796,
     "timeMonth": 2063,
     "timeYear": 2100,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-25": 1
+    }
   },
   {
     "name": "Mass Effect Universe",
     "url": "https://www.masseffect-universe.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/masseffect.gif",
     "slug": "mass-effect-universe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2694,
@@ -221,17 +240,19 @@
     "timeWeek": 1909,
     "timeMonth": 2122,
     "timeYear": 2694,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-25": 1
+    }
   },
   {
     "name": "Planet Neverwinter",
     "url": "https://www.planetneverwinter.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/neverwinter.ico",
     "slug": "planet-neverwinter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1591,
@@ -239,17 +260,19 @@
     "timeWeek": 1248,
     "timeMonth": 1505,
     "timeYear": 1591,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-25": 1
+    }
   },
   {
     "name": "Sacred Legends",
     "url": "https://www.sacred-legends.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/sacred.jpg",
     "slug": "sacred-legends",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1370,
@@ -257,17 +280,19 @@
     "timeWeek": 1292,
     "timeMonth": 1396,
     "timeYear": 1370,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-25": 1
+    }
   },
   {
     "name": "The Witcher",
     "url": "https://www.the-witcher.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/witcher.ico",
     "slug": "the-witcher",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2132,
@@ -275,17 +300,19 @@
     "timeWeek": 1738,
     "timeMonth": 1988,
     "timeYear": 2132,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-25": 1
+    }
   },
   {
     "name": "World of Cyberpunk",
     "url": "https://www.worldofcyberpunk.de",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/cyberpunk.png",
     "slug": "world-of-cyberpunk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2681,
@@ -293,17 +320,19 @@
     "timeWeek": 2226,
     "timeMonth": 2561,
     "timeYear": 2681,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-25": 1
+    }
   },
   {
     "name": "World of Elder Scrolls",
     "url": "https://www.worldofelderscrolls.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/tes.ico",
     "slug": "world-of-elder-scrolls",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1650,
@@ -311,17 +340,19 @@
     "timeWeek": 1367,
     "timeMonth": 1575,
     "timeYear": 1650,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-25": 1
+    }
   },
   {
     "name": "World of Elex",
     "url": "https://worldofelex.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/elex.png",
     "slug": "world-of-elex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1703,
@@ -329,17 +360,19 @@
     "timeWeek": 1361,
     "timeMonth": 1631,
     "timeYear": 1703,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-25": 1
+    }
   },
   {
     "name": "World of Gothic",
     "url": "https://www.worldofgothic.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/gothic.ico",
     "slug": "world-of-gothic",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1550,
@@ -347,17 +380,19 @@
     "timeWeek": 1195,
     "timeMonth": 1478,
     "timeYear": 1550,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-25": 1
+    }
   },
   {
     "name": "World of Risen",
     "url": "https://www.worldofrisen.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/risen.ico",
     "slug": "world-of-risen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1223,
@@ -365,6 +400,8 @@
     "timeWeek": 985,
     "timeMonth": 1122,
     "timeYear": 1223,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-25": 1
+    }
   }
 ]
