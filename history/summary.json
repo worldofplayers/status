@@ -413,9 +413,9 @@
     "url": "https://www.worldofrisen.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/risen.ico",
     "slug": "world-of-risen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -425,6 +425,7 @@
     "timeMonth": 1269,
     "timeYear": 1227,
     "dailyMinutesDown": {
+      "2023-06-07": 0,
       "2023-01-25": 25,
       "2022-09-25": 156
     }
