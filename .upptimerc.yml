@@ -36,7 +36,7 @@ sites:
     url: https://dl.worldofplayers.de/wog/gothic1/sonstiges/GothicFps-108.zip
     icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico
     headers:
-      - "HTTP_REFERER: https://www.worldofplayers.de/"
+      - "Referer: https://www.worldofplayers.de/"
   - name: Upload-Server
     url: https://upload.worldofplayers.de/files12/testbild.png
     icon: https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico
