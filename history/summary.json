@@ -4,19 +4,19 @@
     "url": "https://forum.worldofplayers.de/forum/forums/146-Infoforum",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico",
     "slug": "forum",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "93.42%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.98%",
-    "time": 1983,
-    "timeDay": 3966,
-    "timeWeek": 2585,
-    "timeMonth": 2125,
-    "timeYear": 1971,
+    "uptimeDay": "92.75%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.97%",
+    "time": 1994,
+    "timeDay": 4454,
+    "timeWeek": 2885,
+    "timeMonth": 2260,
+    "timeYear": 1985,
     "dailyMinutesDown": {
-      "2024-08-24": 94,
+      "2024-08-24": 104,
       "2024-04-26": 30
     }
   },
@@ -25,11 +25,11 @@
     "url": "https://www.worldofplayers.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico",
     "slug": "portalseite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "95.93%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "95.78%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 1340,
     "timeDay": 4435,
@@ -37,7 +37,7 @@
     "timeMonth": 1462,
     "timeYear": 1386,
     "dailyMinutesDown": {
-      "2024-08-24": 59
+      "2024-08-24": 61
     }
   },
   {
@@ -45,10 +45,10 @@
     "url": "https://dl.worldofplayers.de/wog/gothic1/sonstiges/GothicFps-108.zip",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico",
     "slug": "download-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "67.32%",
-    "uptimeWeek": "79.42%",
+    "uptimeDay": "67.69%",
+    "uptimeWeek": "79.41%",
     "uptimeMonth": "95.17%",
     "uptimeYear": "99.58%",
     "time": 1530,
@@ -57,7 +57,7 @@
     "timeMonth": 1513,
     "timeYear": 1498,
     "dailyMinutesDown": {
-      "2024-08-24": 455,
+      "2024-08-24": 457,
       "2024-08-23": 349,
       "2024-08-22": 376,
       "2024-08-21": 214,
@@ -68,8 +68,7 @@
       "2024-05-26": 49,
       "2024-03-27": 18,
       "2024-01-27": 8,
-      "2024-01-05": 9,
-      "2023-11-28": 8
+      "2024-01-05": 9
     }
   },
   {
@@ -187,19 +186,19 @@
     "url": "https://www.dungeon-lords.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/dungeonlords.gif",
     "slug": "dungeon-lords",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "88.86%",
-    "uptimeWeek": "98.41%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "88.06%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.97%",
-    "time": 1283,
-    "timeDay": 5175,
-    "timeWeek": 3011,
-    "timeMonth": 1926,
-    "timeYear": 1288,
+    "time": 1299,
+    "timeDay": 5612,
+    "timeWeek": 3349,
+    "timeMonth": 2101,
+    "timeYear": 1309,
     "dailyMinutesDown": {
-      "2024-08-24": 161,
+      "2024-08-24": 172,
       "2023-12-19": 10
     }
   },
