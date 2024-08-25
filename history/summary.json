@@ -4,19 +4,20 @@
     "url": "https://forum.worldofplayers.de/forum/forums/146-Infoforum",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico",
     "slug": "forum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "92.75%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "92.52%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.97%",
-    "time": 1994,
+    "time": 1995,
     "timeDay": 4454,
     "timeWeek": 2885,
     "timeMonth": 2260,
     "timeYear": 1985,
     "dailyMinutesDown": {
-      "2024-08-24": 104,
+      "2024-08-25": 2,
+      "2024-08-24": 105,
       "2024-04-26": 30
     }
   },
@@ -45,11 +46,11 @@
     "url": "https://dl.worldofplayers.de/wog/gothic1/sonstiges/GothicFps-108.zip",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico",
     "slug": "download-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "67.37%",
-    "uptimeWeek": "79.34%",
-    "uptimeMonth": "95.15%",
+    "uptimeDay": "67.77%",
+    "uptimeWeek": "79.31%",
+    "uptimeMonth": "95.14%",
     "uptimeYear": "99.58%",
     "time": 1538,
     "timeDay": 2785,
@@ -57,6 +58,7 @@
     "timeMonth": 1547,
     "timeYear": 1507,
     "dailyMinutesDown": {
+      "2024-08-25": 2,
       "2024-08-24": 464,
       "2024-08-23": 349,
       "2024-08-22": 376,
@@ -67,8 +69,7 @@
       "2024-07-25": 42,
       "2024-05-26": 49,
       "2024-03-27": 18,
-      "2024-01-27": 8,
-      "2024-01-05": 9
+      "2024-01-27": 8
     }
   },
   {
@@ -186,11 +187,11 @@
     "url": "https://www.dungeon-lords.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/dungeonlords.gif",
     "slug": "dungeon-lords",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "88.06%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "87.97%",
+    "uptimeWeek": "98.28%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "99.97%",
     "time": 1299,
     "timeDay": 5612,
@@ -198,6 +199,7 @@
     "timeMonth": 2101,
     "timeYear": 1309,
     "dailyMinutesDown": {
+      "2024-08-25": 1,
       "2024-08-24": 172,
       "2023-12-19": 10
     }
