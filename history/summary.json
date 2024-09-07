@@ -47,13 +47,13 @@
     "url": "https://dl.worldofplayers.de/wog/gothic1/sonstiges/GothicFps-108.zip",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico",
     "slug": "download-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "71.57%",
-    "uptimeWeek": "78.41%",
-    "uptimeMonth": "95.03%",
+    "uptimeDay": "71.54%",
+    "uptimeWeek": "78.61%",
+    "uptimeMonth": "95.08%",
     "uptimeYear": "99.59%",
-    "time": 1666,
+    "time": 1667,
     "timeDay": 1615,
     "timeWeek": 1467,
     "timeMonth": 1871,
@@ -66,7 +66,7 @@
       "2024-09-03": 339,
       "2024-09-02": 123,
       "2024-09-01": 429,
-      "2024-08-31": 120
+      "2024-08-31": 100
     }
   },
   {
