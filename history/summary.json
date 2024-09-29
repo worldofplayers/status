@@ -208,19 +208,19 @@
     "url": "https://www.hdr-seite.de",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/herrderringe.ico",
     "slug": "herr-der-ringe",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2128,
-    "timeDay": 1392,
-    "timeWeek": 1846,
-    "timeMonth": 1971,
-    "timeYear": 2038,
+    "time": 2127,
+    "timeDay": 1489,
+    "timeWeek": 1828,
+    "timeMonth": 1963,
+    "timeYear": 2037,
     "dailyMinutesDown": {
-      "2024-09-29": 1
+      "2024-09-29": 10
     }
   },
   {
