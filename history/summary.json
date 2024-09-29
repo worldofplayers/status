@@ -208,18 +208,20 @@
     "url": "https://www.hdr-seite.de",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/herrderringe.ico",
     "slug": "herr-der-ringe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2129,
-    "timeDay": 1626,
-    "timeWeek": 1945,
-    "timeMonth": 1998,
-    "timeYear": 2041,
-    "dailyMinutesDown": {}
+    "time": 2128,
+    "timeDay": 1392,
+    "timeWeek": 1846,
+    "timeMonth": 1971,
+    "timeYear": 2038,
+    "dailyMinutesDown": {
+      "2024-09-29": 1
+    }
   },
   {
     "name": "Mass Effect Universe",
