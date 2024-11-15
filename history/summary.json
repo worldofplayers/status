@@ -178,11 +178,11 @@
     "url": "https://www.dsa-drakensang.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/drakensang.png",
     "slug": "dsa-drakensang",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1258,
     "timeDay": 1611,
@@ -190,6 +190,7 @@
     "timeMonth": 1262,
     "timeYear": 1241,
     "dailyMinutesDown": {
+      "2024-11-15": 3,
       "2024-11-07": 11
     }
   },
