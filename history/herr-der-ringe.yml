@@ -1,7 +1,7 @@
 url: https://www.hdr-seite.de
-status: up
-code: 200
-responseTime: 1760
-lastUpdated: 2025-02-23T23:08:55.081Z
+status: down
+code: 503
+responseTime: 2033
+lastUpdated: 2025-02-24T20:36:44.682Z
 startTime: 2022-04-26T16:14:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
