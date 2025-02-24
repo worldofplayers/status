@@ -1,7 +1,7 @@
 url: https://www.the-witcher.de/
-status: up
-code: 200
-responseTime: 1563
-lastUpdated: 2025-02-23T23:09:00.715Z
+status: down
+code: 503
+responseTime: 1027
+lastUpdated: 2025-02-24T20:36:56.320Z
 startTime: 2022-04-24T22:25:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
