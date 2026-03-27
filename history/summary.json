@@ -471,19 +471,19 @@
     "url": "https://www.worldofrisen.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/risen.ico",
     "slug": "world-of-risen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "22.71%",
-    "uptimeMonth": "60.76%",
-    "uptimeYear": "96.73%",
+    "uptimeDay": "4.49%",
+    "uptimeWeek": "23.34%",
+    "uptimeMonth": "61.08%",
+    "uptimeYear": "96.76%",
     "time": 1321,
     "timeDay": 13337,
     "timeWeek": 1474,
     "timeMonth": 1318,
     "timeYear": 1308,
     "dailyMinutesDown": {
-      "2026-03-27": 347,
+      "2026-03-27": 348,
       "2026-03-26": 1440,
       "2026-03-25": 1140,
       "2026-03-24": 1075,
@@ -500,7 +500,7 @@
       "2026-03-13": 1047,
       "2026-03-12": 975,
       "2026-03-11": 793,
-      "2026-03-10": 291
+      "2026-03-10": 148
     }
   }
 ]
