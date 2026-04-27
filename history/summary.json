@@ -4,49 +4,18 @@
     "url": "https://forum.worldofplayers.de/forum/forums/146-Infoforum",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico",
     "slug": "forum",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "39.07%",
-    "uptimeWeek": "75.24%",
-    "uptimeMonth": "90.25%",
-    "uptimeYear": "98.71%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2017,
-    "timeDay": 1550,
+    "timeDay": 1281,
     "timeWeek": 1434,
     "timeMonth": 1686,
     "timeYear": 2015,
-    "dailyMinutesDown": {
-      "2026-04-27": 369,
-      "2026-04-26": 953,
-      "2026-04-25": 586,
-      "2026-04-24": 380,
-      "2026-04-23": 65,
-      "2026-04-22": 62,
-      "2026-04-20": 82,
-      "2026-04-19": 51,
-      "2026-04-18": 803,
-      "2026-04-17": 690,
-      "2026-04-16": 145,
-      "2026-04-14": 87,
-      "2026-03-21": 198,
-      "2026-02-11": 23,
-      "2025-12-23": 680,
-      "2025-12-22": 780,
-      "2025-12-21": 59,
-      "2025-12-20": 64,
-      "2025-12-18": 30,
-      "2025-12-17": 17,
-      "2025-12-16": 10,
-      "2025-12-10": 65,
-      "2025-12-08": 239,
-      "2025-10-09": 122,
-      "2025-09-30": 21,
-      "2025-06-05": 25,
-      "2025-06-02": 46,
-      "2025-05-31": 20,
-      "2025-05-28": 95,
-      "2025-05-27": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portalseite",
@@ -54,35 +23,17 @@
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico",
     "slug": "portalseite",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.55%",
-    "uptimeMonth": "95.82%",
-    "uptimeYear": "99.37%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1274,
     "timeDay": 1495,
     "timeWeek": 1645,
     "timeMonth": 1222,
     "timeYear": 1310,
-    "dailyMinutesDown": {
-      "2026-04-25": 748,
-      "2026-04-24": 204,
-      "2026-04-17": 106,
-      "2026-04-13": 54,
-      "2026-03-31": 354,
-      "2026-03-30": 62,
-      "2026-03-29": 37,
-      "2026-03-28": 267,
-      "2026-03-21": 850,
-      "2026-02-27": 155,
-      "2026-02-20": 40,
-      "2026-02-14": 13,
-      "2026-02-12": 345,
-      "2026-01-14": 10,
-      "2026-01-13": 11,
-      "2025-10-09": 23,
-      "2025-06-05": 24
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Download-Server",
@@ -90,23 +41,17 @@
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico",
     "slug": "download-server",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.95%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1547,
     "timeDay": 1750,
     "timeWeek": 1536,
     "timeMonth": 1493,
     "timeYear": 1565,
-    "dailyMinutesDown": {
-      "2026-04-17": 105,
-      "2026-02-27": 80,
-      "2026-02-20": 40,
-      "2026-01-28": 21,
-      "2025-06-05": 24
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Upload-Server",
@@ -114,22 +59,17 @@
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico",
     "slug": "upload-server",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.95%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 837,
     "timeDay": 955,
     "timeWeek": 901,
     "timeMonth": 871,
     "timeYear": 858,
-    "dailyMinutesDown": {
-      "2026-04-17": 105,
-      "2026-02-27": 114,
-      "2026-02-20": 39,
-      "2025-06-05": 24
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Upload-Server (Upload Form)",
@@ -137,22 +77,17 @@
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico",
     "slug": "upload-server-upload-form",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.94%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2073,
     "timeDay": 2244,
     "timeWeek": 2264,
     "timeMonth": 2196,
     "timeYear": 2149,
-    "dailyMinutesDown": {
-      "2026-04-17": 105,
-      "2026-02-27": 153,
-      "2026-02-20": 39,
-      "2025-06-05": 23
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Assassin's Creed",
@@ -160,22 +95,17 @@
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/assassinscreed.gif",
     "slug": "assassin-s-creed",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.94%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1208,
     "timeDay": 1360,
     "timeWeek": 1095,
     "timeMonth": 1200,
     "timeYear": 1218,
-    "dailyMinutesDown": {
-      "2026-04-17": 105,
-      "2026-02-27": 152,
-      "2026-02-20": 39,
-      "2026-01-28": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Diablo Game",
@@ -183,22 +113,17 @@
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/diablo.ico",
     "slug": "diablo-game",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.93%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1364,
     "timeDay": 1359,
     "timeWeek": 1340,
     "timeMonth": 1334,
     "timeYear": 1384,
-    "dailyMinutesDown": {
-      "2026-04-17": 104,
-      "2026-02-27": 191,
-      "2026-02-20": 38,
-      "2026-01-28": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dragon Age Game",
@@ -206,22 +131,17 @@
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/dragonage.png",
     "slug": "dragon-age-game",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.93%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1222,
     "timeDay": 1314,
     "timeWeek": 1190,
     "timeMonth": 1260,
     "timeYear": 1244,
-    "dailyMinutesDown": {
-      "2026-04-17": 104,
-      "2026-02-27": 189,
-      "2026-02-20": 38,
-      "2026-01-28": 19
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DSA Drakensang",
@@ -229,23 +149,17 @@
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/drakensang.png",
     "slug": "dsa-drakensang",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.94%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1310,
     "timeDay": 1467,
     "timeWeek": 1201,
     "timeMonth": 1313,
     "timeYear": 1323,
-    "dailyMinutesDown": {
-      "2026-04-17": 103,
-      "2026-02-27": 150,
-      "2026-02-20": 37,
-      "2026-01-28": 19,
-      "2025-09-21": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dungeon Lords",
@@ -253,22 +167,17 @@
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/dungeonlords.gif",
     "slug": "dungeon-lords",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.94%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1224,
     "timeDay": 1549,
     "timeWeek": 1476,
     "timeMonth": 1239,
     "timeYear": 1242,
-    "dailyMinutesDown": {
-      "2026-04-17": 103,
-      "2026-02-27": 149,
-      "2026-02-20": 37,
-      "2026-01-28": 18
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fallout-Area.de",
@@ -276,23 +185,17 @@
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/fallout.png",
     "slug": "fallout-area-de",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.92%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1374,
     "timeDay": 1475,
     "timeWeek": 1305,
     "timeMonth": 1445,
     "timeYear": 1376,
-    "dailyMinutesDown": {
-      "2026-04-17": 102,
-      "2026-03-14": 97,
-      "2026-02-27": 149,
-      "2026-02-20": 36,
-      "2026-01-28": 18
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Herr der Ringe",
@@ -300,22 +203,17 @@
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/herrderringe.ico",
     "slug": "herr-der-ringe",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.94%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2168,
     "timeDay": 2389,
     "timeWeek": 2023,
     "timeMonth": 2121,
     "timeYear": 2173,
-    "dailyMinutesDown": {
-      "2026-04-17": 102,
-      "2026-02-27": 149,
-      "2026-02-20": 36,
-      "2026-01-28": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mass Effect Universe",
@@ -323,21 +221,17 @@
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/masseffect.gif",
     "slug": "mass-effect-universe",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.95%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1485,
     "timeDay": 2502,
     "timeWeek": 2567,
     "timeMonth": 2255,
     "timeYear": 1511,
-    "dailyMinutesDown": {
-      "2026-04-17": 102,
-      "2026-02-27": 148,
-      "2026-02-20": 36
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Planet Neverwinter",
@@ -345,22 +239,17 @@
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/neverwinter.ico",
     "slug": "planet-neverwinter",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.95%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1807,
     "timeDay": 2034,
     "timeWeek": 1733,
     "timeMonth": 1765,
     "timeYear": 1840,
-    "dailyMinutesDown": {
-      "2026-04-17": 101,
-      "2026-02-27": 117,
-      "2026-02-20": 35,
-      "2026-01-28": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sacred Legends",
@@ -368,23 +257,17 @@
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/sacred.jpg",
     "slug": "sacred-legends",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.94%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1391,
     "timeDay": 1895,
     "timeWeek": 1299,
     "timeMonth": 1289,
     "timeYear": 1420,
-    "dailyMinutesDown": {
-      "2026-04-17": 101,
-      "2026-03-29": 37,
-      "2026-02-27": 116,
-      "2026-02-20": 35,
-      "2026-01-28": 16
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "The Witcher",
@@ -392,22 +275,17 @@
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/witcher.ico",
     "slug": "the-witcher",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.94%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2000,
     "timeDay": 2061,
     "timeWeek": 1758,
     "timeMonth": 1847,
     "timeYear": 2032,
-    "dailyMinutesDown": {
-      "2026-04-17": 100,
-      "2026-02-27": 147,
-      "2026-02-20": 34,
-      "2025-11-07": 26
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "World of Cyberpunk",
@@ -439,23 +317,17 @@
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/tes.ico",
     "slug": "world-of-elder-scrolls",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.95%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1713,
     "timeDay": 1881,
     "timeWeek": 1618,
     "timeMonth": 1643,
     "timeYear": 1750,
-    "dailyMinutesDown": {
-      "2026-04-17": 100,
-      "2026-02-27": 95,
-      "2026-02-20": 33,
-      "2026-01-28": 16,
-      "2025-11-07": 26
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "World of Elex",
@@ -463,24 +335,17 @@
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/elex.png",
     "slug": "world-of-elex",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.95%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1742,
     "timeDay": 3818,
     "timeWeek": 1736,
     "timeMonth": 1681,
     "timeYear": 1770,
-    "dailyMinutesDown": {
-      "2026-04-17": 99,
-      "2026-02-27": 106,
-      "2026-02-20": 33,
-      "2026-01-28": 15,
-      "2025-11-07": 25,
-      "2025-09-21": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "World of Gothic",
@@ -488,22 +353,17 @@
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/gothic.ico",
     "slug": "world-of-gothic",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.95%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1754,
     "timeDay": 1752,
     "timeWeek": 1749,
     "timeMonth": 1792,
     "timeYear": 1798,
-    "dailyMinutesDown": {
-      "2026-04-17": 99,
-      "2026-02-27": 105,
-      "2026-02-20": 33,
-      "2025-11-07": 25
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "World of Risen",
@@ -511,37 +371,16 @@
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/risen.ico",
     "slug": "world-of-risen",
     "status": "up",
-    "uptime": "99.05%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.02%",
-    "uptimeYear": "96.21%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1333,
     "timeDay": 1285,
     "timeWeek": 1345,
     "timeMonth": 1352,
     "timeYear": 1319,
-    "dailyMinutesDown": {
-      "2026-04-17": 99,
-      "2026-03-29": 1069,
-      "2026-03-28": 1335,
-      "2026-03-27": 1375,
-      "2026-03-26": 1440,
-      "2026-03-25": 1140,
-      "2026-03-24": 1075,
-      "2026-03-23": 1150,
-      "2026-03-22": 1193,
-      "2026-03-21": 683,
-      "2026-03-20": 1110,
-      "2026-03-19": 1211,
-      "2026-03-18": 795,
-      "2026-03-17": 1035,
-      "2026-03-16": 833,
-      "2026-03-15": 1117,
-      "2026-03-14": 956,
-      "2026-03-13": 1047,
-      "2026-03-12": 975,
-      "2026-03-11": 287
-    }
+    "dailyMinutesDown": {}
   }
 ]
