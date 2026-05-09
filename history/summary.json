@@ -4,18 +4,19 @@
     "url": "https://forum.worldofplayers.de/forum/forums/146-Infoforum",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico",
     "slug": "forum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "66.59%",
-    "uptimeWeek": "58.98%",
+    "uptimeDay": "96.16%",
+    "uptimeWeek": "63.15%",
     "uptimeMonth": "72.82%",
     "uptimeYear": "97.30%",
     "time": 1954,
-    "timeDay": 1179,
-    "timeWeek": 1305,
+    "timeDay": 1472,
+    "timeWeek": 1304,
     "timeMonth": 1409,
     "timeYear": 1936,
     "dailyMinutesDown": {
+      "2026-05-09": 1,
       "2026-05-08": 516,
       "2026-05-07": 373,
       "2026-05-06": 786,
@@ -50,8 +51,7 @@
       "2025-12-16": 10,
       "2025-12-10": 65,
       "2025-12-08": 239,
-      "2025-10-09": 122,
-      "2025-09-30": 21
+      "2025-10-09": 122
     }
   },
   {
