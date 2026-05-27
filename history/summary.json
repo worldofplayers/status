@@ -6,10 +6,10 @@
     "slug": "forum",
     "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "90.00%",
-    "uptimeWeek": "91.29%",
+    "uptimeDay": "85.52%",
+    "uptimeWeek": "90.65%",
     "uptimeMonth": "75.35%",
-    "uptimeYear": "97.56%",
+    "uptimeYear": "97.55%",
     "time": 1910,
     "timeDay": 1117,
     "timeWeek": 1155,
@@ -49,7 +49,7 @@
       "2026-05-24": 243,
       "2026-05-25": 73,
       "2026-05-26": 143,
-      "2026-05-27": 1
+      "2026-05-27": 65
     }
   },
   {
