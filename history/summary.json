@@ -5,11 +5,11 @@
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico",
     "slug": "forum",
     "status": "down",
-    "uptime": "99.39%",
-    "uptimeDay": "84.45%",
-    "uptimeWeek": "88.72%",
-    "uptimeMonth": "78.05%",
-    "uptimeYear": "97.50%",
+    "uptime": "99.38%",
+    "uptimeDay": "74.94%",
+    "uptimeWeek": "87.36%",
+    "uptimeMonth": "77.74%",
+    "uptimeYear": "97.47%",
     "time": 1905,
     "timeDay": 1081,
     "timeWeek": 1125,
@@ -50,7 +50,7 @@
       "2026-05-26": 143,
       "2026-05-27": 261,
       "2026-05-28": 223,
-      "2026-05-29": 1
+      "2026-05-29": 138
     }
   },
   {
