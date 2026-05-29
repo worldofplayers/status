@@ -4,17 +4,17 @@
     "url": "https://forum.worldofplayers.de/forum/forums/146-Infoforum",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico",
     "slug": "forum",
-    "status": "down",
+    "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "65.55%",
-    "uptimeWeek": "84.59%",
-    "uptimeMonth": "78.15%",
-    "uptimeYear": "97.41%",
-    "time": 1904,
-    "timeDay": 1034,
-    "timeWeek": 1109,
-    "timeMonth": 1278,
-    "timeYear": 1867,
+    "uptimeDay": "60.25%",
+    "uptimeWeek": "83.83%",
+    "uptimeMonth": "78.08%",
+    "uptimeYear": "97.40%",
+    "time": 1903,
+    "timeDay": 1030,
+    "timeWeek": 1104,
+    "timeMonth": 1276,
+    "timeYear": 1866,
     "dailyMinutesDown": {
       "2026-04-24": 261,
       "2026-04-25": 586,
@@ -50,7 +50,7 @@
       "2026-05-26": 143,
       "2026-05-27": 261,
       "2026-05-28": 223,
-      "2026-05-29": 496
+      "2026-05-29": 572
     }
   },
   {
@@ -68,7 +68,7 @@
     "timeDay": 872,
     "timeWeek": 1005,
     "timeMonth": 1214,
-    "timeYear": 1314,
+    "timeYear": 1316,
     "dailyMinutesDown": {
       "2025-06-05": 24,
       "2025-10-09": 23,
@@ -104,7 +104,7 @@
     "timeDay": 1280,
     "timeWeek": 1395,
     "timeMonth": 1525,
-    "timeYear": 1560,
+    "timeYear": 1561,
     "dailyMinutesDown": {
       "2025-06-05": 24,
       "2026-01-28": 21,
@@ -153,7 +153,7 @@
     "timeDay": 2835,
     "timeWeek": 3082,
     "timeMonth": 3221,
-    "timeYear": 2258,
+    "timeYear": 2259,
     "dailyMinutesDown": {
       "2025-06-05": 23,
       "2026-02-20": 39,
@@ -176,7 +176,7 @@
     "timeDay": 1499,
     "timeWeek": 1147,
     "timeMonth": 1257,
-    "timeYear": 1226,
+    "timeYear": 1227,
     "dailyMinutesDown": {
       "2026-01-28": 20,
       "2026-02-20": 39,
@@ -199,7 +199,7 @@
     "timeDay": 1017,
     "timeWeek": 1312,
     "timeMonth": 1457,
-    "timeYear": 1396,
+    "timeYear": 1397,
     "dailyMinutesDown": {
       "2026-01-28": 20,
       "2026-02-20": 38,
@@ -223,7 +223,7 @@
     "timeDay": 845,
     "timeWeek": 1065,
     "timeMonth": 1218,
-    "timeYear": 1243,
+    "timeYear": 1244,
     "dailyMinutesDown": {
       "2026-01-28": 19,
       "2026-02-20": 38,
@@ -246,7 +246,7 @@
     "timeDay": 1204,
     "timeWeek": 1225,
     "timeMonth": 1355,
-    "timeYear": 1328,
+    "timeYear": 1329,
     "dailyMinutesDown": {
       "2025-09-21": 9,
       "2026-01-28": 19,
@@ -270,7 +270,7 @@
     "timeDay": 1036,
     "timeWeek": 1171,
     "timeMonth": 1216,
-    "timeYear": 1247,
+    "timeYear": 1248,
     "dailyMinutesDown": {
       "2026-01-28": 18,
       "2026-02-20": 37,
@@ -294,7 +294,7 @@
     "timeDay": 977,
     "timeWeek": 2329,
     "timeMonth": 1700,
-    "timeYear": 1409,
+    "timeYear": 1410,
     "dailyMinutesDown": {
       "2026-01-28": 18,
       "2026-02-20": 36,
@@ -319,7 +319,7 @@
     "timeDay": 2027,
     "timeWeek": 1977,
     "timeMonth": 2170,
-    "timeYear": 2174,
+    "timeYear": 2176,
     "dailyMinutesDown": {
       "2026-01-28": 17,
       "2026-02-20": 36,
@@ -342,7 +342,7 @@
     "timeDay": 2373,
     "timeWeek": 2942,
     "timeMonth": 2739,
-    "timeYear": 1627,
+    "timeYear": 1628,
     "dailyMinutesDown": {
       "2026-02-20": 36,
       "2026-02-27": 148,
@@ -364,7 +364,7 @@
     "timeDay": 1521,
     "timeWeek": 1734,
     "timeMonth": 1808,
-    "timeYear": 1842,
+    "timeYear": 1843,
     "dailyMinutesDown": {
       "2026-01-28": 17,
       "2026-02-20": 35,
@@ -387,7 +387,7 @@
     "timeDay": 974,
     "timeWeek": 1156,
     "timeMonth": 1343,
-    "timeYear": 1414,
+    "timeYear": 1415,
     "dailyMinutesDown": {
       "2026-01-28": 16,
       "2026-02-20": 35,
@@ -411,7 +411,7 @@
     "timeDay": 1369,
     "timeWeek": 1963,
     "timeMonth": 2018,
-    "timeYear": 2038,
+    "timeYear": 2040,
     "dailyMinutesDown": {
       "2025-11-07": 26,
       "2026-02-20": 34,
@@ -434,7 +434,7 @@
     "timeDay": 2090,
     "timeWeek": 1991,
     "timeMonth": 2148,
-    "timeYear": 2370,
+    "timeYear": 2369,
     "dailyMinutesDown": {
       "2025-11-07": 26,
       "2026-01-28": 16,
@@ -458,7 +458,7 @@
     "timeDay": 1146,
     "timeWeek": 1478,
     "timeMonth": 1687,
-    "timeYear": 1753,
+    "timeYear": 1755,
     "dailyMinutesDown": {
       "2025-11-07": 26,
       "2026-01-28": 16,
@@ -482,7 +482,7 @@
     "timeDay": 1519,
     "timeWeek": 1962,
     "timeMonth": 1796,
-    "timeYear": 1771,
+    "timeYear": 1772,
     "dailyMinutesDown": {
       "2025-09-21": 9,
       "2025-11-07": 25,
@@ -507,7 +507,7 @@
     "timeDay": 1495,
     "timeWeek": 1531,
     "timeMonth": 1658,
-    "timeYear": 1781,
+    "timeYear": 1783,
     "dailyMinutesDown": {
       "2025-11-07": 25,
       "2026-02-20": 33,
