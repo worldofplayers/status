@@ -8,13 +8,13 @@
     "uptime": "99.37%",
     "uptimeDay": "95.61%",
     "uptimeWeek": "85.70%",
-    "uptimeMonth": "78.61%",
+    "uptimeMonth": "78.87%",
     "uptimeYear": "97.41%",
     "time": 1901,
     "timeDay": 1307,
     "timeWeek": 1227,
-    "timeMonth": 1288,
-    "timeYear": 1867,
+    "timeMonth": 1290,
+    "timeYear": 1866,
     "dailyMinutesDown": {
       "2026-04-24": 148,
       "2026-04-25": 586,
@@ -483,12 +483,12 @@
     "url": "https://worldofelex.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/elex.png",
     "slug": "world-of-elex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.94%",
     "time": 1757,
     "timeDay": 6206,
     "timeWeek": 2558,
@@ -500,7 +500,8 @@
       "2026-01-28": 15,
       "2026-02-20": 33,
       "2026-02-27": 106,
-      "2026-04-17": 99
+      "2026-04-17": 99,
+      "2026-05-31": 1
     }
   },
   {
