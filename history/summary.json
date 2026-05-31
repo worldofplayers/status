@@ -8,7 +8,7 @@
     "uptime": "99.37%",
     "uptimeDay": "95.61%",
     "uptimeWeek": "84.32%",
-    "uptimeMonth": "77.98%",
+    "uptimeMonth": "78.17%",
     "uptimeYear": "97.41%",
     "time": 1901,
     "timeDay": 1307,
@@ -268,10 +268,10 @@
     "slug": "dungeon-lords",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.93%",
+    "uptimeDay": "90.13%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.90%",
     "time": 1242,
     "timeDay": 11070,
     "timeWeek": 2544,
@@ -283,7 +283,7 @@
       "2026-02-27": 149,
       "2026-04-17": 103,
       "2026-05-05": 55,
-      "2026-05-31": 8
+      "2026-05-31": 142
     }
   },
   {
