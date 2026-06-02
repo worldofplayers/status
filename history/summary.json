@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico",
     "slug": "forum",
     "status": "down",
-    "uptime": "99.37%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "86.08%",
-    "uptimeMonth": "81.57%",
-    "uptimeYear": "97.43%",
+    "uptime": "99.36%",
+    "uptimeDay": "79.50%",
+    "uptimeWeek": "83.24%",
+    "uptimeMonth": "81.08%",
+    "uptimeYear": "97.37%",
     "time": 1896,
     "timeDay": 922,
     "timeWeek": 1253,
-    "timeMonth": 1284,
-    "timeYear": 1860,
+    "timeMonth": 1279,
+    "timeYear": 1863,
     "dailyMinutesDown": {
       "2026-04-25": 502,
       "2026-04-26": 953,
@@ -52,7 +52,7 @@
       "2026-05-29": 572,
       "2026-05-30": 63,
       "2026-05-31": 131,
-      "2026-06-02": 9
+      "2026-06-02": 295
     }
   },
   {
@@ -318,11 +318,11 @@
     "url": "https://www.hdr-seite.de",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/herrderringe.ico",
     "slug": "herr-der-ringe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.71%",
-    "uptimeMonth": "99.24%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "96.61%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "99.88%",
     "time": 2266,
     "timeDay": 1561,
@@ -335,7 +335,8 @@
       "2026-02-27": 149,
       "2026-04-17": 102,
       "2026-05-30": 62,
-      "2026-05-31": 269
+      "2026-05-31": 269,
+      "2026-06-02": 10
     }
   },
   {
@@ -436,11 +437,11 @@
     "url": "https://www.worldofcyberpunk.de",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/cyberpunk.png",
     "slug": "world-of-cyberpunk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.94%",
     "time": 2381,
     "timeDay": 2676,
@@ -452,7 +453,8 @@
       "2026-01-28": 16,
       "2026-02-20": 34,
       "2026-02-27": 117,
-      "2026-04-17": 100
+      "2026-04-17": 100,
+      "2026-06-02": 5
     }
   },
   {
@@ -534,19 +536,19 @@
     "url": "https://www.worldofrisen.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/risen.ico",
     "slug": "world-of-risen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.08%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.38%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.37%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "96.22%",
+    "uptimeYear": "96.23%",
     "time": 1382,
     "timeDay": 2538,
     "timeWeek": 4997,
     "timeMonth": 2278,
     "timeYear": 1371,
     "dailyMinutesDown": {
-      "2026-03-11": 182,
+      "2026-03-11": 130,
       "2026-03-12": 975,
       "2026-03-13": 1047,
       "2026-03-14": 956,
@@ -566,7 +568,8 @@
       "2026-03-28": 1335,
       "2026-03-29": 1069,
       "2026-04-17": 99,
-      "2026-05-30": 62
+      "2026-05-30": 62,
+      "2026-06-02": 1
     }
   }
 ]
