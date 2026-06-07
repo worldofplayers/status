@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.33%",
     "uptimeDay": "79.21%",
-    "uptimeWeek": "72.15%",
-    "uptimeMonth": "82.74%",
+    "uptimeWeek": "72.37%",
+    "uptimeMonth": "83.03%",
     "uptimeYear": "97.26%",
     "time": 1871,
     "timeDay": 982,
-    "timeWeek": 1158,
+    "timeWeek": 1140,
     "timeMonth": 1248,
     "timeYear": 1843,
     "dailyMinutesDown": {
@@ -63,12 +63,12 @@
     "url": "https://www.worldofplayers.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico",
     "slug": "portalseite",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "47.52%",
-    "uptimeWeek": "60.87%",
-    "uptimeMonth": "91.00%",
-    "uptimeYear": "98.63%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "50.14%",
+    "uptimeWeek": "59.95%",
+    "uptimeMonth": "90.78%",
+    "uptimeYear": "98.61%",
     "time": 1293,
     "timeDay": 1064,
     "timeWeek": 2108,
@@ -95,7 +95,7 @@
       "2026-06-04": 652,
       "2026-06-05": 1122,
       "2026-06-06": 1082,
-      "2026-06-07": 506
+      "2026-06-07": 599
     }
   },
   {
@@ -103,13 +103,13 @@
     "url": "https://dl.worldofplayers.de/wog/gothic1/sonstiges/GothicFps-108.zip",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico",
     "slug": "download-server",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "48.52%",
-    "uptimeWeek": "62.42%",
-    "uptimeMonth": "91.35%",
-    "uptimeYear": "99.22%",
-    "time": 1596,
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "51.48%",
+    "uptimeWeek": "61.55%",
+    "uptimeMonth": "91.15%",
+    "uptimeYear": "99.21%",
+    "time": 1597,
     "timeDay": 2302,
     "timeWeek": 2563,
     "timeMonth": 2138,
@@ -124,7 +124,7 @@
       "2026-06-04": 637,
       "2026-06-05": 1113,
       "2026-06-06": 1072,
-      "2026-06-07": 491
+      "2026-06-07": 579
     }
   },
   {
@@ -132,13 +132,13 @@
     "url": "https://upload.worldofplayers.de/files12/testbild.png",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico",
     "slug": "upload-server",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "49.53%",
-    "uptimeWeek": "60.62%",
-    "uptimeMonth": "90.80%",
-    "uptimeYear": "99.17%",
-    "time": 901,
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "52.82%",
+    "uptimeWeek": "59.80%",
+    "uptimeMonth": "90.61%",
+    "uptimeYear": "99.16%",
+    "time": 881,
     "timeDay": 750,
     "timeWeek": 1972,
     "timeMonth": 1549,
@@ -154,7 +154,7 @@
       "2026-06-04": 624,
       "2026-06-05": 1103,
       "2026-06-06": 1063,
-      "2026-06-07": 477
+      "2026-06-07": 560
     }
   },
   {
@@ -162,13 +162,13 @@
     "url": "https://upload.worldofplayers.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/wop.ico",
     "slug": "upload-server-upload-form",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "50.52%",
-    "uptimeWeek": "54.79%",
-    "uptimeMonth": "89.27%",
-    "uptimeYear": "99.05%",
-    "time": 2440,
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "54.15%",
+    "uptimeWeek": "54.01%",
+    "uptimeMonth": "89.09%",
+    "uptimeYear": "99.03%",
+    "time": 2441,
     "timeDay": 3035,
     "timeWeek": 5867,
     "timeMonth": 5851,
@@ -184,7 +184,7 @@
       "2026-06-04": 609,
       "2026-06-05": 1093,
       "2026-06-06": 1054,
-      "2026-06-07": 463
+      "2026-06-07": 541
     }
   },
   {
@@ -192,13 +192,13 @@
     "url": "https://www.assassins-creed.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/assassinscreed.gif",
     "slug": "assassin-s-creed",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "51.53%",
-    "uptimeWeek": "64.13%",
-    "uptimeMonth": "91.60%",
-    "uptimeYear": "99.24%",
-    "time": 1273,
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "55.49%",
+    "uptimeWeek": "63.40%",
+    "uptimeMonth": "91.43%",
+    "uptimeYear": "99.23%",
+    "time": 1274,
     "timeDay": 1133,
     "timeWeek": 2090,
     "timeMonth": 2019,
@@ -213,7 +213,7 @@
       "2026-06-04": 594,
       "2026-06-05": 1083,
       "2026-06-06": 1045,
-      "2026-06-07": 449
+      "2026-06-07": 523
     }
   },
   {
@@ -221,13 +221,13 @@
     "url": "https://www.diablogame.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/diablo.ico",
     "slug": "diablo-game",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "52.53%",
-    "uptimeWeek": "56.59%",
-    "uptimeMonth": "89.87%",
-    "uptimeYear": "99.08%",
-    "time": 1477,
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "56.83%",
+    "uptimeWeek": "55.91%",
+    "uptimeMonth": "89.71%",
+    "uptimeYear": "99.07%",
+    "time": 1478,
     "timeDay": 1268,
     "timeWeek": 3366,
     "timeMonth": 3035,
@@ -244,7 +244,7 @@
       "2026-06-04": 579,
       "2026-06-05": 1073,
       "2026-06-06": 1035,
-      "2026-06-07": 434
+      "2026-06-07": 503
     }
   },
   {
@@ -252,12 +252,12 @@
     "url": "https://www.dragonage-game.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/dragonage.png",
     "slug": "dragon-age-game",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "53.54%",
-    "uptimeWeek": "57.03%",
-    "uptimeMonth": "90.11%",
-    "uptimeYear": "99.11%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "58.17%",
+    "uptimeWeek": "56.40%",
+    "uptimeMonth": "89.97%",
+    "uptimeYear": "99.10%",
     "time": 1332,
     "timeDay": 1130,
     "timeWeek": 2632,
@@ -273,7 +273,7 @@
       "2026-06-04": 564,
       "2026-06-05": 1063,
       "2026-06-06": 1025,
-      "2026-06-07": 419
+      "2026-06-07": 483
     }
   },
   {
@@ -281,12 +281,12 @@
     "url": "https://www.dsa-drakensang.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/drakensang.png",
     "slug": "dsa-drakensang",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "54.54%",
-    "uptimeWeek": "62.56%",
-    "uptimeMonth": "91.25%",
-    "uptimeYear": "99.21%",
+    "uptimeDay": "59.52%",
+    "uptimeWeek": "61.97%",
+    "uptimeMonth": "91.11%",
+    "uptimeYear": "99.20%",
     "time": 1385,
     "timeDay": 1153,
     "timeWeek": 2102,
@@ -303,7 +303,7 @@
       "2026-06-04": 549,
       "2026-06-05": 1054,
       "2026-06-06": 1015,
-      "2026-06-07": 404
+      "2026-06-07": 463
     }
   },
   {
@@ -311,12 +311,12 @@
     "url": "https://www.dungeon-lords.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/dungeonlords.gif",
     "slug": "dungeon-lords",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "55.55%",
-    "uptimeWeek": "64.78%",
-    "uptimeMonth": "91.25%",
-    "uptimeYear": "99.20%",
+    "uptimeDay": "60.86%",
+    "uptimeWeek": "64.24%",
+    "uptimeMonth": "91.13%",
+    "uptimeYear": "99.19%",
     "time": 1269,
     "timeDay": 1024,
     "timeWeek": 1748,
@@ -334,7 +334,7 @@
       "2026-06-04": 537,
       "2026-06-05": 1045,
       "2026-06-06": 1005,
-      "2026-06-07": 390
+      "2026-06-07": 444
     }
   },
   {
@@ -342,12 +342,12 @@
     "url": "https://fallout-area.de",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/fallout.png",
     "slug": "fallout-area-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "56.55%",
-    "uptimeWeek": "66.99%",
-    "uptimeMonth": "92.40%",
-    "uptimeYear": "99.28%",
+    "uptimeDay": "62.19%",
+    "uptimeWeek": "66.50%",
+    "uptimeMonth": "92.29%",
+    "uptimeYear": "99.27%",
     "time": 1425,
     "timeDay": 1291,
     "timeWeek": 1961,
@@ -364,7 +364,7 @@
       "2026-06-04": 522,
       "2026-06-05": 1035,
       "2026-06-06": 996,
-      "2026-06-07": 376
+      "2026-06-07": 425
     }
   },
   {
@@ -372,12 +372,12 @@
     "url": "https://www.hdr-seite.de",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/herrderringe.ico",
     "slug": "herr-der-ringe",
-    "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "57.55%",
-    "uptimeWeek": "61.85%",
-    "uptimeMonth": "90.46%",
-    "uptimeYear": "99.15%",
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "63.53%",
+    "uptimeWeek": "61.41%",
+    "uptimeMonth": "90.36%",
+    "uptimeYear": "99.14%",
     "time": 2385,
     "timeDay": 2235,
     "timeWeek": 6405,
@@ -395,7 +395,7 @@
       "2026-06-04": 507,
       "2026-06-05": 1026,
       "2026-06-06": 987,
-      "2026-06-07": 362
+      "2026-06-07": 406
     }
   },
   {
@@ -403,13 +403,13 @@
     "url": "https://www.masseffect-universe.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/masseffect.gif",
     "slug": "mass-effect-universe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "58.54%",
-    "uptimeWeek": "65.88%",
-    "uptimeMonth": "92.15%",
-    "uptimeYear": "99.29%",
-    "time": 1707,
+    "uptimeDay": "64.85%",
+    "uptimeWeek": "65.49%",
+    "uptimeMonth": "92.06%",
+    "uptimeYear": "99.28%",
+    "time": 1708,
     "timeDay": 5152,
     "timeWeek": 4481,
     "timeMonth": 3742,
@@ -423,7 +423,7 @@
       "2026-06-04": 492,
       "2026-06-05": 1016,
       "2026-06-06": 977,
-      "2026-06-07": 347
+      "2026-06-07": 387
     }
   },
   {
@@ -431,12 +431,12 @@
     "url": "https://www.planetneverwinter.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/neverwinter.ico",
     "slug": "planet-neverwinter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "59.54%",
-    "uptimeWeek": "66.48%",
-    "uptimeMonth": "92.29%",
-    "uptimeYear": "99.31%",
+    "uptimeDay": "66.19%",
+    "uptimeWeek": "66.13%",
+    "uptimeMonth": "92.21%",
+    "uptimeYear": "99.30%",
     "time": 1874,
     "timeDay": 1779,
     "timeWeek": 2951,
@@ -452,7 +452,7 @@
       "2026-06-04": 477,
       "2026-06-05": 1007,
       "2026-06-06": 967,
-      "2026-06-07": 332
+      "2026-06-07": 367
     }
   },
   {
@@ -460,13 +460,13 @@
     "url": "https://www.sacred-legends.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/sacred.jpg",
     "slug": "sacred-legends",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "60.54%",
-    "uptimeWeek": "68.65%",
-    "uptimeMonth": "92.79%",
+    "uptimeDay": "67.53%",
+    "uptimeWeek": "68.35%",
+    "uptimeMonth": "92.72%",
     "uptimeYear": "99.34%",
-    "time": 1438,
+    "time": 1440,
     "timeDay": 1380,
     "timeWeek": 2187,
     "timeMonth": 1855,
@@ -482,7 +482,7 @@
       "2026-06-04": 463,
       "2026-06-05": 997,
       "2026-06-06": 957,
-      "2026-06-07": 317
+      "2026-06-07": 347
     }
   },
   {
@@ -490,11 +490,11 @@
     "url": "https://www.the-witcher.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/witcher.ico",
     "slug": "the-witcher",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "61.54%",
-    "uptimeWeek": "65.64%",
-    "uptimeMonth": "91.48%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "68.86%",
+    "uptimeWeek": "65.39%",
+    "uptimeMonth": "91.42%",
     "uptimeYear": "99.23%",
     "time": 2153,
     "timeDay": 2177,
@@ -512,7 +512,7 @@
       "2026-06-04": 449,
       "2026-06-05": 987,
       "2026-06-06": 948,
-      "2026-06-07": 304
+      "2026-06-07": 329
     }
   },
   {
@@ -520,13 +520,13 @@
     "url": "https://www.worldofcyberpunk.de",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/cyberpunk.png",
     "slug": "world-of-cyberpunk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "62.54%",
-    "uptimeWeek": "68.04%",
-    "uptimeMonth": "92.65%",
+    "uptimeDay": "70.20%",
+    "uptimeWeek": "67.84%",
+    "uptimeMonth": "92.60%",
     "uptimeYear": "99.33%",
-    "time": 2423,
+    "time": 2421,
     "timeDay": 2032,
     "timeWeek": 3432,
     "timeMonth": 2917,
@@ -542,7 +542,7 @@
       "2026-06-04": 434,
       "2026-06-05": 977,
       "2026-06-06": 939,
-      "2026-06-07": 290
+      "2026-06-07": 310
     }
   },
   {
@@ -550,13 +550,13 @@
     "url": "https://www.worldofelderscrolls.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/tes.ico",
     "slug": "world-of-elder-scrolls",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "63.54%",
-    "uptimeWeek": "69.04%",
-    "uptimeMonth": "92.43%",
-    "uptimeYear": "99.32%",
-    "time": 1769,
+    "uptimeDay": "71.54%",
+    "uptimeWeek": "68.88%",
+    "uptimeMonth": "92.40%",
+    "uptimeYear": "99.31%",
+    "time": 1746,
     "timeDay": 1699,
     "timeWeek": 2401,
     "timeMonth": 2212,
@@ -573,7 +573,7 @@
       "2026-06-04": 419,
       "2026-06-05": 968,
       "2026-06-06": 929,
-      "2026-06-07": 275
+      "2026-06-07": 290
     }
   },
   {
@@ -581,11 +581,11 @@
     "url": "https://worldofelex.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/elex.png",
     "slug": "world-of-elex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "64.54%",
-    "uptimeWeek": "70.60%",
-    "uptimeMonth": "92.99%",
+    "uptimeDay": "72.88%",
+    "uptimeWeek": "70.50%",
+    "uptimeMonth": "92.97%",
     "uptimeYear": "99.36%",
     "time": 1837,
     "timeDay": 1955,
@@ -605,7 +605,7 @@
       "2026-06-04": 405,
       "2026-06-05": 958,
       "2026-06-06": 920,
-      "2026-06-07": 260
+      "2026-06-07": 271
     }
   },
   {
@@ -613,13 +613,13 @@
     "url": "https://www.worldofgothic.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/gothic.ico",
     "slug": "world-of-gothic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "65.54%",
-    "uptimeWeek": "66.20%",
-    "uptimeMonth": "92.22%",
+    "uptimeDay": "74.21%",
+    "uptimeWeek": "66.14%",
+    "uptimeMonth": "92.21%",
     "uptimeYear": "99.30%",
-    "time": 1833,
+    "time": 1835,
     "timeDay": 1758,
     "timeWeek": 3634,
     "timeMonth": 2626,
@@ -634,7 +634,7 @@
       "2026-06-04": 391,
       "2026-06-05": 949,
       "2026-06-06": 910,
-      "2026-06-07": 245
+      "2026-06-07": 251
     }
   },
   {
@@ -642,19 +642,19 @@
     "url": "https://www.worldofrisen.de/",
     "icon": "https://raw.githubusercontent.com/worldofplayers/status/master/assets/favicons/risen.ico",
     "slug": "world-of-risen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "66.55%",
-    "uptimeWeek": "67.58%",
-    "uptimeMonth": "92.40%",
-    "uptimeYear": "95.99%",
+    "uptimeDay": "75.55%",
+    "uptimeWeek": "67.57%",
+    "uptimeMonth": "92.39%",
+    "uptimeYear": "96.00%",
     "time": 1454,
     "timeDay": 1273,
     "timeWeek": 3886,
     "timeMonth": 3080,
     "timeYear": 1455,
     "dailyMinutesDown": {
-      "2026-03-13": 129,
+      "2026-03-13": 99,
       "2026-03-14": 956,
       "2026-03-15": 1117,
       "2026-03-16": 833,
@@ -678,7 +678,7 @@
       "2026-06-04": 377,
       "2026-06-05": 939,
       "2026-06-06": 900,
-      "2026-06-07": 231
+      "2026-06-07": 232
     }
   }
 ]
